@@ -1,4 +1,7 @@
 University Cybersecurity Enhancement Using Artificial Intelligence
 
- Project Background:
-Cybersecurity threats in universities are on the rise, with phishing attacks, data breaches, and malware infections among the most common threats. Universities hold sensitive data, including student records, financial information, research data, and intellectual property. An AI-driven cybersecurity solution is proposed to strengthen the university's defense against cyberattacks, particularly phishing attacks, which target students and staff. AI models can analyze patterns in network traffic, email content, and user behavior to detect and prevent threats in real time.
+Project Background:
+Cybersecurity threats in universities are on the rise, with phishing attacks, data breaches, and malware infections among other common threats. 
+Universities hold sensitive data, including student records, financial information, research data, and intellectual property. 
+An AI-driven cybersecurity solution is proposed to strengthen the university's defense against cyberattacks, particularly phishing attacks, 
+which target students and staff. AI models can analyze patterns in network traffic, email content, and user behavior to detect and prevent threats as they occur.
